@@ -1,6 +1,6 @@
 {
   "name": "first-next-app",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
